@@ -7,6 +7,6 @@ This Project Contains java code for
 4. Singleton class
 5. Remove Duplicates from Array
 6. Prime Numbers
-
+7. Reverse Array in Place
 And Many More in Test.java
 
